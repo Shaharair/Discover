@@ -3,7 +3,7 @@ import React from 'react'
 const Banner = () => {
   return (
     <section className="bg-[#000000]">
-        <div className="container px-3 lg:px-0 mx-auto">
+        <div className="container px-3 lg:px-0 mx-auto bg-group">
             <div className="pt-[100px] text-center">
                 <h3 className="font-sans lg:font-bold font-normal lg:text-[18px] text-[14px] text-[#FBD784] uppercase tracking-widest text-center">Bromo</h3>
                 <h2 className="font-sans font-bold lg:text-[64px] text-[24px] uppercase text-[white] lg:pr-[200px] lg:pl-[200px]">Stead  y your steps, we will climb together!</h2>

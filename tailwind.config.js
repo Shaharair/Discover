@@ -12,8 +12,8 @@ export default {
       Container:"1280px"
     },
     backgroundImage: {
-      'ban':"url(./src/assets/banner.jpg)",
-      'group':"url(./src/assets/banner2.jpg)"
+      'ban':"url(./src/assets/banner.png)",
+      'group':"url(./src/assets/banner2.png)"
     },
     fontFamily: {
       'sans': ['Open Sans', 'sans-serif',]

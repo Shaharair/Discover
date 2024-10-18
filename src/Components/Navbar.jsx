@@ -10,7 +10,7 @@ const Navbar = () => {
     let [show, setShow] = useState(false)
 
     return (
-        <section className=" bg-ban">
+        <section className=" bg-[black]">
             <div className="container px-3 lg:px-0 mx-auto">
                 <div className="flex items-center justify-between py-[50px]">
                     <div className="">
